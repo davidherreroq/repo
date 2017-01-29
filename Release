@@ -1,0 +1,9 @@
+Origin: HerreRepo
+Label: HerreRepo
+Suite: stable
+Version: 0.1
+Codename: HerreRepo
+Architectures: iphoneos-arm
+Components: main
+Description: Best Repo Ever
+MD5Sum:
